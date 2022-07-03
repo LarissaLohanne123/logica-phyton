@@ -1,0 +1,4 @@
+jojo = ['jonathan ', 'joseph ', 'jotaro ', 'jolyne ' ]
+
+for i in range (1,4):
+  print(jojo[i], 'joestar')
